@@ -1,7 +1,7 @@
 # boot11strapRM1
 A remake of boot11strap, now able to emulate Switch!
 
-![alt text](https://raw.githubusercontent.com/Kingy34/boot11strapRM1/master/repo/acc/b11v%20logo.png)
+![alt text](https://raw.githubusercontent.com/Kingy34/boot11strapRM1/master/repo/acc/b11vlogo.png)
 
 # What is boot11strap?
 boot11strap is an exploit found by Kingy which allows full access to the 3DS, even with virtualised hardware that is greater than the 3DS, which allows emulation of newer devices and modern PC games!
