@@ -10,6 +10,6 @@ boot11strap is an exploit found by Kingy which allows full access to the 3DS, ev
 Now that I have managed to learn more about the exploit, I am able to develop an even more stable version. This will also allow for greater support and compatability.
 
 # Release when?
-The source will be coming before the binaries do, although I do not know when I will release any part of boot11strap. I am going to start the project tomorrow, so it may come tomorrow, or the day after.
+Binaries will come once the project is fully useable, but for now, the source is here and is build-able. Check the Makefile for the dependancies.
 
 Happy hacking!
